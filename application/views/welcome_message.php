@@ -22,7 +22,8 @@
 </head>
 
 <body id="page-top">
-
+ <?php echo "Test";
+?>
   <!-- Page Wrapper -->
   <div id="wrapper">
 
